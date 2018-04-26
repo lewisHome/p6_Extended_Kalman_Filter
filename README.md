@@ -36,4 +36,4 @@ Cost|Good| Bad| OK
 
 The aim of this project is to determine the location of an object using synthetic radar and a lidar data. The image below shows a screen shot from the [Udacity Term 2 Simulator](https://github.com/udacity/self-driving-car-sim/releases). The red dots indicate the location of a lidar measurement and the blue dots indicate radar. As you can see there is a significant amount of noise in the data to overcome this a technique called a kalman filter is used to produce a best estimate of the object location. The green dots show the predicated position calcualted using the Kalman filter.
 
-![ ](/home/rd/Udacity/CarND-Extended-Kalman-Filter-Project/Examples/EKFDataSnapshotCrop.png  "Example Sensor Data")
+![ ](/Examples/EKFDataSnapshotCrop.png  "Example Sensor Data")
